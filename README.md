@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**  
 
+<code><img height="30" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
