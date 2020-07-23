@@ -39,14 +39,20 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**  
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/saltstack/saltstack-icon.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
+<code><img height="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg"></code>
 
 ![joudaon's github stats](https://github-readme-stats.vercel.app/api?username=joudaon&show_icons=true&hide_border=true)
