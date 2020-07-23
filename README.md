@@ -27,11 +27,12 @@ _____________|','   ///_/-------------/   |
 **joudaon/joudaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![Linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/jonudaondo/)
-
 <a href="https://www.linkedin.com/in/jonudaondo/">
-  <img align="left" alt="Jon's LinkdeIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  <img align="left" alt="Jon's LinkdeIn" height="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
+
+<br />
+<br />
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
