@@ -41,17 +41,17 @@ Here are some ideas to get you started:
 
 <code><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/saltstack/saltstack-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg"></code>
 
